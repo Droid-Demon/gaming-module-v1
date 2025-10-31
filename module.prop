@@ -1,0 +1,6 @@
+id=gaming_module_v1
+name=Gaming Module v1.0
+version=1.0
+versionCode=10
+author=AB
+description=Advanced gaming optimization module with WebUI, overlay, and per-app profiles. Android 16 compatible.
